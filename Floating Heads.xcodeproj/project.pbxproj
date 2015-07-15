@@ -14,6 +14,18 @@
 		5EDC94EF1B56BF61007C0EE8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC94EE1B56BF61007C0EE8 /* Images.xcassets */; };
 		5EDC94F21B56BF61007C0EE8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC94F01B56BF61007C0EE8 /* LaunchScreen.xib */; };
 		5EDC94FE1B56BF61007C0EE8 /* Floating_HeadsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EDC94FD1B56BF61007C0EE8 /* Floating_HeadsTests.m */; };
+		5EDC95091B56C020007C0EE8 /* FloatingButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EDC95081B56C020007C0EE8 /* FloatingButton.m */; };
+		5EDC95121B56C0A3007C0EE8 /* UIColor+ButtonColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EDC95111B56C0A3007C0EE8 /* UIColor+ButtonColor.m */; };
+		5EDC95141B56C404007C0EE8 /* icon-add.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC95131B56C403007C0EE8 /* icon-add.pdf */; };
+		5EDC95171B56CF95007C0EE8 /* FloatingMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EDC95161B56CF95007C0EE8 /* FloatingMenuController.m */; };
+		5EDC95191B56D4BC007C0EE8 /* icon-close.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC95181B56D4BC007C0EE8 /* icon-close.pdf */; };
+		5EDC951B1B56D777007C0EE8 /* inbox.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC951A1B56D777007C0EE8 /* inbox.png */; };
+		5EDC951F1B56D79C007C0EE8 /* model-004.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC951E1B56D79C007C0EE8 /* model-004.jpg */; };
+		5EDC95211B56D7A2007C0EE8 /* model-005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC95201B56D7A2007C0EE8 /* model-005.jpg */; };
+		5EDC95231B56D7A8007C0EE8 /* model-006.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC95221B56D7A8007C0EE8 /* model-006.jpg */; };
+		5EDC95251B56D7B1007C0EE8 /* model-007.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC95241B56D7B1007C0EE8 /* model-007.jpg */; };
+		5EDC95271B56D7B7007C0EE8 /* model-008.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5EDC95261B56D7B7007C0EE8 /* model-008.jpg */; };
+		5EDC95311B570BDF007C0EE8 /* ActionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EDC95301B570BDF007C0EE8 /* ActionViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +52,23 @@
 		5EDC94F71B56BF61007C0EE8 /* Floating HeadsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Floating HeadsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EDC94FC1B56BF61007C0EE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5EDC94FD1B56BF61007C0EE8 /* Floating_HeadsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Floating_HeadsTests.m; sourceTree = "<group>"; };
+		5EDC95071B56C020007C0EE8 /* FloatingButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FloatingButton.h; path = ../FloatingButton.h; sourceTree = "<group>"; };
+		5EDC95081B56C020007C0EE8 /* FloatingButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FloatingButton.m; path = ../FloatingButton.m; sourceTree = "<group>"; };
+		5EDC95101B56C0A3007C0EE8 /* UIColor+ButtonColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+ButtonColor.h"; sourceTree = "<group>"; };
+		5EDC95111B56C0A3007C0EE8 /* UIColor+ButtonColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+ButtonColor.m"; sourceTree = "<group>"; };
+		5EDC95131B56C403007C0EE8 /* icon-add.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "icon-add.pdf"; sourceTree = "<group>"; };
+		5EDC95151B56CF95007C0EE8 /* FloatingMenuController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FloatingMenuController.h; sourceTree = "<group>"; };
+		5EDC95161B56CF95007C0EE8 /* FloatingMenuController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FloatingMenuController.m; sourceTree = "<group>"; };
+		5EDC95181B56D4BC007C0EE8 /* icon-close.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "icon-close.pdf"; sourceTree = "<group>"; };
+		5EDC951A1B56D777007C0EE8 /* inbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = inbox.png; sourceTree = "<group>"; };
+		5EDC951E1B56D79C007C0EE8 /* model-004.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "model-004.jpg"; sourceTree = "<group>"; };
+		5EDC95201B56D7A2007C0EE8 /* model-005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "model-005.jpg"; sourceTree = "<group>"; };
+		5EDC95221B56D7A8007C0EE8 /* model-006.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "model-006.jpg"; sourceTree = "<group>"; };
+		5EDC95241B56D7B1007C0EE8 /* model-007.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "model-007.jpg"; sourceTree = "<group>"; };
+		5EDC95261B56D7B7007C0EE8 /* model-008.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "model-008.jpg"; sourceTree = "<group>"; };
+		5EDC952B1B56FC9B007C0EE8 /* MenuDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MenuDelegate.h; sourceTree = "<group>"; };
+		5EDC952F1B570BDF007C0EE8 /* ActionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActionViewController.h; sourceTree = "<group>"; };
+		5EDC95301B570BDF007C0EE8 /* ActionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActionViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,10 +112,27 @@
 			children = (
 				5EDC94E51B56BF61007C0EE8 /* AppDelegate.h */,
 				5EDC94E61B56BF61007C0EE8 /* AppDelegate.m */,
+				5EDC95101B56C0A3007C0EE8 /* UIColor+ButtonColor.h */,
+				5EDC95111B56C0A3007C0EE8 /* UIColor+ButtonColor.m */,
+				5EDC95071B56C020007C0EE8 /* FloatingButton.h */,
+				5EDC95081B56C020007C0EE8 /* FloatingButton.m */,
+				5EDC95151B56CF95007C0EE8 /* FloatingMenuController.h */,
+				5EDC95161B56CF95007C0EE8 /* FloatingMenuController.m */,
+				5EDC952B1B56FC9B007C0EE8 /* MenuDelegate.h */,
 				5EDC94E81B56BF61007C0EE8 /* ViewController.h */,
 				5EDC94E91B56BF61007C0EE8 /* ViewController.m */,
+				5EDC952F1B570BDF007C0EE8 /* ActionViewController.h */,
+				5EDC95301B570BDF007C0EE8 /* ActionViewController.m */,
 				5EDC94EB1B56BF61007C0EE8 /* Main.storyboard */,
 				5EDC94EE1B56BF61007C0EE8 /* Images.xcassets */,
+				5EDC951A1B56D777007C0EE8 /* inbox.png */,
+				5EDC95181B56D4BC007C0EE8 /* icon-close.pdf */,
+				5EDC95131B56C403007C0EE8 /* icon-add.pdf */,
+				5EDC951E1B56D79C007C0EE8 /* model-004.jpg */,
+				5EDC95201B56D7A2007C0EE8 /* model-005.jpg */,
+				5EDC95221B56D7A8007C0EE8 /* model-006.jpg */,
+				5EDC95241B56D7B1007C0EE8 /* model-007.jpg */,
+				5EDC95261B56D7B7007C0EE8 /* model-008.jpg */,
 				5EDC94F01B56BF61007C0EE8 /* LaunchScreen.xib */,
 				5EDC94E11B56BF61007C0EE8 /* Supporting Files */,
 			);
@@ -199,9 +245,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EDC95271B56D7B7007C0EE8 /* model-008.jpg in Resources */,
 				5EDC94ED1B56BF61007C0EE8 /* Main.storyboard in Resources */,
 				5EDC94F21B56BF61007C0EE8 /* LaunchScreen.xib in Resources */,
+				5EDC951F1B56D79C007C0EE8 /* model-004.jpg in Resources */,
+				5EDC951B1B56D777007C0EE8 /* inbox.png in Resources */,
+				5EDC95231B56D7A8007C0EE8 /* model-006.jpg in Resources */,
 				5EDC94EF1B56BF61007C0EE8 /* Images.xcassets in Resources */,
+				5EDC95141B56C404007C0EE8 /* icon-add.pdf in Resources */,
+				5EDC95191B56D4BC007C0EE8 /* icon-close.pdf in Resources */,
+				5EDC95211B56D7A2007C0EE8 /* model-005.jpg in Resources */,
+				5EDC95251B56D7B1007C0EE8 /* model-007.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,7 +275,11 @@
 			files = (
 				5EDC94EA1B56BF61007C0EE8 /* ViewController.m in Sources */,
 				5EDC94E71B56BF61007C0EE8 /* AppDelegate.m in Sources */,
+				5EDC95171B56CF95007C0EE8 /* FloatingMenuController.m in Sources */,
+				5EDC95311B570BDF007C0EE8 /* ActionViewController.m in Sources */,
 				5EDC94E41B56BF61007C0EE8 /* main.m in Sources */,
+				5EDC95091B56C020007C0EE8 /* FloatingButton.m in Sources */,
+				5EDC95121B56C0A3007C0EE8 /* UIColor+ButtonColor.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

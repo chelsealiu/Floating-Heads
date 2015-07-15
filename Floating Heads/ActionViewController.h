@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ActionViewController.h
 //  Floating Heads
 //
 //  Created by Chelsea Liu on 7/15/15.
@@ -7,11 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "FloatingMenuController.h"
-#import "FloatingButton.h"
+#import "MenuDelegate.h"
 
-@interface ViewController : UIViewController  
-
+@interface ActionViewController : UIViewController
 
 @end
-
